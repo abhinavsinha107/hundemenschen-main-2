@@ -1,0 +1,1 @@
+ALTER TABLE `checkup_answers` ADD `image` text;

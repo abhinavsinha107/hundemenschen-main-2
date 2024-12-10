@@ -1,0 +1,1 @@
+ALTER TABLE `checkup_answers` ADD `question_title` text NOT NULL;

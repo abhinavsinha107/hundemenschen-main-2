@@ -1,0 +1,43 @@
+CREATE TABLE `contacts` (
+	`id` integer PRIMARY KEY NOT NULL,
+	`first_name` text NOT NULL,
+	`last_name` text NOT NULL,
+	`gender` text NOT NULL,
+	`additional_info` text,
+	`zip_code` text,
+	`city` text,
+	`street` text,
+	`house_number` text,
+	`address_additional_info` text,
+	`country` text,
+	`mobile` text,
+	`secondary_phone` text,
+	`email` text,
+	`notes` text
+);
+--> statement-breakpoint
+CREATE TABLE `dogs` (
+	`id` integer PRIMARY KEY NOT NULL,
+	`full_name` text NOT NULL,
+	`call_name` text,
+	`birthday` integer,
+	`estimated_birthday` integer DEFAULT false,
+	`gender` text NOT NULL,
+	`neutered` integer DEFAULT false,
+	`breed` text,
+	`mixed_breed` integer DEFAULT false,
+	`breed_unknown` integer DEFAULT false,
+	`origin_country` text,
+	`chip_number` text,
+	`chip_date` integer,
+	`chip_location` text,
+	`pet_passport_number` text,
+	`tasso_number` text,
+	`tax_number` text,
+	`identification_notes` text,
+	`has_pet_insurance` integer DEFAULT false,
+	`owner_contact_id` integer,
+	`secondary_contact_id` integer,
+	FOREIGN KEY (`owner_contact_id`) REFERENCES `contacts`(`id`) ON UPDATE no action ON DELETE no action,
+	FOREIGN KEY (`secondary_contact_id`) REFERENCES `contacts`(`id`) ON UPDATE no action ON DELETE no action
+);
