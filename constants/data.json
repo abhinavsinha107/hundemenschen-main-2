@@ -1,0 +1,1961 @@
+{
+  "pages": [
+    {
+      "subPages": [
+        {
+          "title": "Herzstillstand",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Ausgangslage",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Kein Lebenszeichen, jdhjsdsdf keine Atmung."
+                },
+                {
+                  "type": "bullet",
+                  "content": "nach Unfall"
+                },
+                {
+                  "type": "bullet",
+                  "content": "starke Blutung"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Stromschlag/Hitzschlag"
+                },
+                {
+                  "type": "bullet",
+                  "content": "andere Ursache"
+                },
+                {
+                  "type": "bullet",
+                  "content": "kein Lebenszeichen"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Vorbereitung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Ruhe Bewahren."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Ruhe bewahren und beteiligte Menschen und Tiere beruhigen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Zum Selbstschutz: Maulkorb oder Maulschlinge anlegen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Maulschlinge"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund in die stabile Seitenlage bringen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "stabile Seitenlage"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Die Atemwege müssen frei sein"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Atemwege prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund Anbinden, damit er im Schock nicht plötzlich weg rennt."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Sichern & beruhigen"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "symptome",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Kein Lebenszeichen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Kein Herzschlag/keine Atemgeräusche"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keinerlei Bewegung am Brustkorb, Maul und Zunge"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Puls prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keinerlei Reaktion auf Ansprache (überprüfen durch lautes Klatschen)"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keine Reaktion auf Schmerzreiz (überprüfen durch ...)"
+                },
+                {
+                  "type": "redLine"
+                },
+                {
+                  "type": "simpleText",
+                  "content": "Die Wiederbelebung muss so schnell wie möglich beginnen. Nur im Zweifelsfall hier weiter prüfen:"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Atmung prüfen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Kapillarfüllzeit prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Pupillenreflexe mit Taschenlampe prüfen jdhjsdsdf (Verkleinerung bei Einstrahlung )"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Massnahmen",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Im Notfall:"
+                },
+                {
+                  "type": "paragraph",
+                  "content": "Der Hund ist in höchster Gefahr zu sterben, deshalb müssen in kürzester Zeit verschiedene Maßnahmen richtig durchgeführt werden"
+                },
+                {
+                  "type": "paragraph",
+                  "content": "Einerseits müssen die lebensgefährdenden Ursachen beseitigt und eine Herz-LungenWiederbelebung durchgeführt werden"
+                },
+                {
+                  "type": "subTopic",
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Lebensgefährdende Ursachen beseitigen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Die lebensgefährdenden Ursachen müssen vorab oder parallel zu den Wiederbelebungsmaßnahmen beseitigt werden."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Diese Maßnahmen müssen sofort und unverzüglich erfolgen."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Verbluten: starke Blutung mit Druckverband stoppen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Schock: Hund in Schocklagerung bringen"
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "stabile Seitenlage"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Ersticken: Fremdkörper aus dem Rachen entfernen "
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "stabile Seitenlage"
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Lebensgefährdende Ursachen beseitigen"
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Eine Kombination aus Mund-zu-Nase Beatmung und Herzdruckmassage wird im Folgenden aufgezeigt:"
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Stehen zwei Helfer zur Verfügung, können diese Aufgaben aufgeteilt werden."
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Zwischendurch muss immer wieder überprüft werden, ob Atmung oder Herz eingesetzt haben, die Massnahmen sind dann zu stoppen!"
+                        },
+                        {
+                          "type": "errorWarning",
+                          "content": "Ein erfolgreich wiederbelebter Hund muss zur Nachbehandlung zum Tierarzt!"
+                        },
+                        {
+                          "type": "subTopic",
+                          "content": [
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "Kombinierte Herz- Lungen Reanimation"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "IM ZWEIFEL ist die Herz-druck Massage wichtiger als die Atemspende"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "30 Herzdruckmassagen, 2 Atemspenden"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            },
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "mund-zu-nase beatmung"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Die Nase des Hundes zeigt zum Helfer"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "aus Hygienegründen: evtl. dünnes Tuch über die Nase des Hundes legen"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Mund des Hundes zuhalten, so dass keine Luft entweichen kann"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "evtl. mit beiden Händen Lefzen halten und abdichten"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Aus Daumen und Zeigefinger einen Ring um die Nasenöffnung des Hundes formen und eigenen Mund aufsetzen"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "mit 20-30 Atemstößen je Minute beatmen"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            },
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "herz-druck-massage"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "NUR wenn Herz und Atmung ausgesetzt haben"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Je nach Größe oder Wachstumsstand 2-3 Finger (Welpe), eine Hand oder zwei Hände (große Hunde) verwenden"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Seitenlage"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Herz finden: Angewinkelter Ellebogen befindet sich über dem Herzen"
+                                },
+                                {
+                                  "type": "image",
+                                  "content": "@/assets/images/dog.png"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "stossartig Druck auf den Brustkorb ausüben, danach vollständig entlasten"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "dabei eine Taktung von 1 Stoss pro Sekunde einhalten"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "title": "Transport",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Schnellst möglich."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Vorab telefonischen Kontakt zu Klinik/ TA aufnehmen (Öffnungszeiten prüfen)"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Helfer durch Aufmerksam machen organisieren"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Der Transport zur Klinik muss schnellst möglich erfolgen, es sollte jemand fahren der nicht zu aufgeregt ist "
+                },
+                {
+                  "type": "bullet",
+                  "content": "Wenn der Hund selbst gehen kann sollte man ihn lassen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Abhängig der Situation Transportmögichkeiten wählen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "mehr dazu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Atemstillstand",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Nach der Wiederbelebung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Sichere Betreuung des Hundes."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund warm halten, da er unterkühlt sein könnte."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Auf regelmäßige Atmung und Herzschlag achten."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Temperatur prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Ruhe und sanfte Beruhigung schaffen."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Kontinuierliche Beobachtung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Fortlaufende Überwachung ist entscheidend."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Vitalzeichen stündlich überprüfen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Auf Symptome von Atemnot oder Herzschwäche achten."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Symptome von Schock erkennen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Tierarztbesuch einplanen, um Folgeschäden auszuschließen."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Langfristige Erholung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Geduld ist gefragt."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Regelmäßige Nachuntersuchungen beim Tierarzt."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Besondere Pflege, falls neurologische Schäden bestehen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Pflegehinweise"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Sicherstellung einer stressarmen Umgebung zur Erholung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Schockzustand",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Symptome von Schock",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Warnzeichen beachten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Blasse Schleimhäute und kalte Extremitäten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Schwacher, schneller Puls."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Unruhiges Verhalten oder Zittern."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Vitalzeichen prüfen"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Sofortmaßnahmen",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Richtige Erste Hilfe leisten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Hund flach hinlegen und Kopf leicht erhöhen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Wärme sichern, aber Überhitzung vermeiden."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Beruhigung des Hundes durch sanfte Stimme und ruhige Bewegungen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Mehr über Schockmaßnahmen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Starke blutungen",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Symptome eines Atemnotfalls",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Sofortige Erkennung ist entscheidend."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Hektisches Scharren an der Schnauze oder Husten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Bläuliche Schleimhäute durch Sauerstoffmangel."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Keuchen oder röchelnde Atemgeräusche."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Mehr über Atemnot"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Maßnahmen bei Fremdkörper",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Richtiges Vorgehen kann das Leben retten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Mundraum vorsichtig öffnen und Fremdkörper lokalisieren."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Nur greifbare Objekte entfernen – nicht tiefere blockierte Objekte!"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Wie man Fremdkörper entfernt"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Bei Atemstillstand: Herz-Lungen-Reanimation starten."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Erstickungsgefahr",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Symptome einer Vergiftung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Vergiftungsanzeichen erkennen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Erbrechen, Durchfall oder starker Speichelfluss."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Unruhe, Zittern oder Krämpfe."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Pupillenveränderungen oder Schwierigkeiten beim Gehen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Notrufnummer anrufen"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Erste Hilfe bei Vergiftungen",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Sofortmaßnahmen einleiten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Tier vom Giftstoff fernhalten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Falls Gift aufgenommen wurde: keine Milch geben, sondern Wasser."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Möglichst Substanz und Menge des Giftes notieren."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Tierarzt kontaktieren jdhjsdsdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ertrinken",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Erkennen und Einschätzen der Wunde",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Schnelles Handeln ist wichtig."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Schnittwunden oder Rissverletzungen an den Pfoten oder Körper."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Blutende, offene Wunden sofort erkennen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Fremdkörper wie Glassplitter oder Dornen erkennen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Mehr zur Wundbeurteilung"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Erste Hilfe bei Wunden",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Die richtige Erstversorgung einer Wunde."
+                },
+                {
+                  "type": "subTopic",
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Wunde reinigen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Wunde mit sauberem, lauwarmem Wasser abspülen, um Schmutz und Verunreinigungen zu entfernen."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Bei tiefen Wunden nicht zu stark spülen, um Gewebe nicht zu schädigen."
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "Weitere Hinweise zur Wundreinigung"
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Blutungen stoppen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Bei starker Blutung: Druckverband anlegen, um Blutverlust zu verhindern."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Wenn Blutung nachlässt, vorsichtig überprüfen, ob die Wunde sauber bleibt."
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "Mehr zur Blutstillung"
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Fremdkörper entfernen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Kleine Fremdkörper wie Glassplitter vorsichtig mit Pinzette entfernen."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Größere Fremdkörper nur von Fachpersonal entfernen lassen."
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "Sicherer Umgang mit Fremdkörpern"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Nachsorge und Beobachtung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Verlauf und Heilung im Blick behalten."
+                },
+                {
+                  "type": "subTopic",
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Verband überprüfen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Verband regelmäßig auf Blutungen oder Verschmutzungen kontrollieren."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Falls nötig, Verband vorsichtig wechseln, ohne die Wunde zu stören."
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Entzündungen erkennen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Rötung, Schwellung und Wärme um die Wunde sind Anzeichen einer Entzündung."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Bei Anzeichen einer Infektion sofort den Tierarzt konsultieren."
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "Tierarzt konsultieren"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subPages": [
+        {
+          "title": "Vergiftung Allgemein",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Nach der Wiederbelebung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Sichere Betreuung des Hundes."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund warm halten, da er unterkühlt sein könnte."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Auf regelmäßige Atmung und Herzschlag achten."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Temperatur prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Ruhe und sanfte Beruhigung schaffen."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Kontinuierliche Beobachtung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Fortlaufende Überwachung ist entscheidend."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Vitalzeichen stündlich überprüfen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Auf Symptome von Atemnot oder Herzschwäche achten."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Symptome von Schock erkennen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Tierarztbesuch einplanen, um Folgeschäden auszuschließen."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Langfristige Erholung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Geduld ist gefragt."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Regelmäßige Nachuntersuchungen beim Tierarzt."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Besondere Pflege, falls neurologische Schäden bestehen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Pflegehinweise"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Sicherstellung einer stressarmen Umgebung zur Erholung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Blaukorn-Vergiftung",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Ausgangslage",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Kein Lebenszeichen, keine Atmung."
+                },
+                {
+                  "type": "bullet",
+                  "content": "nach Unfall"
+                },
+                {
+                  "type": "bullet",
+                  "content": "starke Blutung"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Stromschlag/Hitzschlag"
+                },
+                {
+                  "type": "bullet",
+                  "content": "andere Ursache"
+                },
+                {
+                  "type": "bullet",
+                  "content": "kein Lebenszeichen"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Vorbereitung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Ruhe Bewahren."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Ruhe bewahren und beteiligte Menschen und Tiere beruhigen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Zum Selbstschutz: Maulkorb oder Maulschlinge anlegen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Maulschlinge"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund in die stabile Seitenlage bringen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "stabile Seitenlage"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Die Atemwege müssen frei sein"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Atemwege prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund Anbinden, damit er im Schock nicht plötzlich weg rennt."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Sichern & beruhigen"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "symptome",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Kein Lebenszeichen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Kein Herzschlag/keine Atemgeräusche"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keinerlei Bewegung am Brustkorb, Maul und Zunge"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Puls prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keinerlei Reaktion auf Ansprache (überprüfen durch lautes Klatschen)"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keine Reaktion auf Schmerzreiz (überprüfen durch ...)"
+                },
+                {
+                  "type": "redLine"
+                },
+                {
+                  "type": "simpleText",
+                  "content": "Die Wiederbelebung muss so schnell wie möglich beginnen. Nur im Zweifelsfall hier weiter prüfen:"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Atmung prüfen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Kapillarfüllzeit prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Pupillenreflexe mit Taschenlampe prüfen (Verkleinerung bei Einstrahlung )"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Massnahmen",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Im Notfall:"
+                },
+                {
+                  "type": "paragraph",
+                  "content": "Der Hund ist in höchster Gefahr zu sterben, deshalb müssen in kürzester Zeit verschiedene Maßnahmen richtig durchgeführt werden"
+                },
+                {
+                  "type": "paragraph",
+                  "content": "Einerseits müssen die lebensgefährdenden Ursachen beseitigt und eine Herz-LungenWiederbelebung durchgeführt werden"
+                },
+                {
+                  "type": "subTopic",
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Lebensgefährdende Ursachen beseitigen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Die lebensgefährdenden Ursachen müssen vorab oder parallel zu den Wiederbelebungsmaßnahmen beseitigt werden."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Diese Maßnahmen müssen sofort und unverzüglich erfolgen."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Verbluten: starke Blutung mit Druckverband stoppen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Schock: Hund in Schocklagerung bringen"
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "stabile Seitenlage"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Ersticken: Fremdkörper aus dem Rachen entfernen "
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "stabile Seitenlage"
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Lebensgefährdende Ursachen beseitigen"
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Eine Kombination aus Mund-zu-Nase Beatmung und Herzdruckmassage wird im Folgenden aufgezeigt:"
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Stehen zwei Helfer zur Verfügung, können diese Aufgaben aufgeteilt werden."
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Zwischendurch muss immer wieder überprüft werden, ob Atmung oder Herz eingesetzt haben, die Massnahmen sind dann zu stoppen!"
+                        },
+                        {
+                          "type": "errorWarning",
+                          "content": "Ein erfolgreich wiederbelebter Hund muss zur Nachbehandlung zum Tierarzt!"
+                        },
+                        {
+                          "type": "subTopic",
+                          "content": [
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "Kombinierte Herz- Lungen Reanimation"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "IM ZWEIFEL ist die Herz-druck Massage wichtiger als die Atemspende"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "30 Herzdruckmassagen, 2 Atemspenden"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            },
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "mund-zu-nase beatmung"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Die Nase des Hundes zeigt zum Helfer"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "aus Hygienegründen: evtl. dünnes Tuch über die Nase des Hundes legen"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Mund des Hundes zuhalten, so dass keine Luft entweichen kann"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "evtl. mit beiden Händen Lefzen halten und abdichten"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Aus Daumen und Zeigefinger einen Ring um die Nasenöffnung des Hundes formen und eigenen Mund aufsetzen"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "mit 20-30 Atemstößen je Minute beatmen"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            },
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "herz-druck-massage"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "NUR wenn Herz und Atmung ausgesetzt haben"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Je nach Größe oder Wachstumsstand 2-3 Finger (Welpe), eine Hand oder zwei Hände (große Hunde) verwenden"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Seitenlage"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Herz finden: Angewinkelter Ellebogen befindet sich über dem Herzen"
+                                },
+                                {
+                                  "type": "image",
+                                  "content": "@/assets/images/dog.png"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "stossartig Druck auf den Brustkorb ausüben, danach vollständig entlasten"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "dabei eine Taktung von 1 Stoss pro Sekunde einhalten"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "title": "Transport",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Schnellst möglich."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Vorab telefonischen Kontakt zu Klinik/ TA aufnehmen (Öffnungszeiten prüfen)"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Helfer durch Aufmerksam machen organisieren"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Der Transport zur Klinik muss schnellst möglich erfolgen, es sollte jemand fahren der nicht zu aufgeregt ist "
+                },
+                {
+                  "type": "bullet",
+                  "content": "Wenn der Hund selbst gehen kann sollte man ihn lassen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Abhängig der Situation Transportmögichkeiten wählen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "mehr dazu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Rattengift",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Symptome von Schock",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Warnzeichen beachten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Blasse Schleimhäute und kalte Extremitäten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Schwacher, schneller Puls."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Unruhiges Verhalten oder Zittern."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Vitalzeichen prüfen"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Sofortmaßnahmen",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Richtige Erste Hilfe leisten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Hund flach hinlegen und Kopf leicht erhöhen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Wärme sichern, aber Überhitzung vermeiden."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Beruhigung des Hundes durch sanfte Stimme und ruhige Bewegungen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Mehr über Schockmaßnahmen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Schneckenkorn-Vergiftung",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Symptome eines Atemnotfalls",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Sofortige Erkennung ist entscheidend."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Hektisches Scharren an der Schnauze oder Husten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Bläuliche Schleimhäute durch Sauerstoffmangel."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Keuchen oder röchelnde Atemgeräusche."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Mehr über Atemnot"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Maßnahmen bei Fremdkörper",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Richtiges Vorgehen kann das Leben retten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Mundraum vorsichtig öffnen und Fremdkörper lokalisieren."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Nur greifbare Objekte entfernen – nicht tiefere blockierte Objekte!"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Wie man Fremdkörper entfernt"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Bei Atemstillstand: Herz-Lungen-Reanimation starten."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Schlangenbiss",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Symptome einer Vergiftung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Vergiftungsanzeichen erkennen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Erbrechen, Durchfall oder starker Speichelfluss."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Unruhe, Zittern oder Krämpfe."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Pupillenveränderungen oder Schwierigkeiten beim Gehen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Notrufnummer anrufen"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Erste Hilfe bei Vergiftungen",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Sofortmaßnahmen einleiten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Tier vom Giftstoff fernhalten."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Falls Gift aufgenommen wurde: keine Milch geben, sondern Wasser."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Möglichst Substanz und Menge des Giftes notieren."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Tierarzt kontaktieren"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Schokoladen-vergiftung",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Erkennen und Einschätzen der Wunde",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Schnelles Handeln ist wichtig."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Schnittwunden oder Rissverletzungen an den Pfoten oder Körper."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Blutende, offene Wunden sofort erkennen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Fremdkörper wie Glassplitter oder Dornen erkennen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Mehr zur Wundbeurteilung"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Erste Hilfe bei Wunden",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Die richtige Erstversorgung einer Wunde."
+                },
+                {
+                  "type": "subTopic",
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Wunde reinigen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Wunde mit sauberem, lauwarmem Wasser abspülen, um Schmutz und Verunreinigungen zu entfernen."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Bei tiefen Wunden nicht zu stark spülen, um Gewebe nicht zu schädigen."
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "Weitere Hinweise zur Wundreinigung"
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Blutungen stoppen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Bei starker Blutung: Druckverband anlegen, um Blutverlust zu verhindern."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Wenn Blutung nachlässt, vorsichtig überprüfen, ob die Wunde sauber bleibt."
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "Mehr zur Blutstillung"
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Fremdkörper entfernen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Kleine Fremdkörper wie Glassplitter vorsichtig mit Pinzette entfernen."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Größere Fremdkörper nur von Fachpersonal entfernen lassen."
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "Sicherer Umgang mit Fremdkörpern"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Nachsorge und Beobachtung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Verlauf und Heilung im Blick behalten."
+                },
+                {
+                  "type": "subTopic",
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Verband überprüfen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Verband regelmäßig auf Blutungen oder Verschmutzungen kontrollieren."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Falls nötig, Verband vorsichtig wechseln, ohne die Wunde zu stören."
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Entzündungen erkennen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Rötung, Schwellung und Wärme um die Wunde sind Anzeichen einer Entzündung."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Bei Anzeichen einer Infektion sofort den Tierarzt konsultieren."
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "Tierarzt konsultieren"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giftige Pflanzen",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Ausgangslage",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Kein Lebenszeichen, keine Atmung."
+                },
+                {
+                  "type": "bullet",
+                  "content": "nach Unfall"
+                },
+                {
+                  "type": "bullet",
+                  "content": "starke Blutung"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Stromschlag/Hitzschlag"
+                },
+                {
+                  "type": "bullet",
+                  "content": "andere Ursache"
+                },
+                {
+                  "type": "bullet",
+                  "content": "kein Lebenszeichen"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Vorbereitung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Ruhe Bewahren."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Ruhe bewahren und beteiligte Menschen und Tiere beruhigen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Zum Selbstschutz: Maulkorb oder Maulschlinge anlegen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Maulschlinge"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund in die stabile Seitenlage bringen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "stabile Seitenlage"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Die Atemwege müssen frei sein"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Atemwege prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund Anbinden, damit er im Schock nicht plötzlich weg rennt."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Sichern & beruhigen"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "s",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Kein Lebenszeichen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Kein Herzschlag/keine Atemgeräusche"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keinerlei Bewegung am Brustkorb, Maul und Zunge"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Puls prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keinerlei Reaktion auf Ansprache (überprüfen durch lautes Klatschen)"
+                },
+                {
+                  "type": "bullet",
+                  "content": "keine Reaktion auf Schmerzreiz (überprüfen durch ...)"
+                },
+                {
+                  "type": "redLine"
+                },
+                {
+                  "type": "simpleText",
+                  "content": "Die Wiederbelebung muss so schnell wie möglich beginnen. Nur im Zweifelsfall hier weiter prüfen:"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Atmung prüfen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Kapillarfüllzeit prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Pupillenreflexe mit Taschenlampe prüfen (Verkleinerung bei Einstrahlung )"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Massnahmen",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Im Notfall:"
+                },
+                {
+                  "type": "paragraph",
+                  "content": "Der Hund ist in höchster Gefahr zu sterben, jdhjsdsdf deshalb müssen in kürzester Zeit verschiedene Maßnahmen richtig durchgeführt werden"
+                },
+                {
+                  "type": "paragraph",
+                  "content": "Einerseits müssen die lebensgefährdenden Ursachen beseitigt und eine Herz-LungenWiederbelebung durchgeführt werden"
+                },
+                {
+                  "type": "subTopic",
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Lebensgefährdende Ursachen beseitigen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Die lebensgefährdenden Ursachen müssen vorab oder parallel zu den Wiederbelebungsmaßnahmen beseitigt werden."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Diese Maßnahmen müssen sofort und unverzüglich erfolgen."
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Verbluten: starke Blutung mit Druckverband stoppen"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Schock: Hund in Schocklagerung bringen"
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "stabile Seitenlage"
+                        },
+                        {
+                          "type": "bullet",
+                          "content": "Ersticken: Fremdkörper aus dem Rachen entfernen "
+                        },
+                        {
+                          "type": "buttonText",
+                          "content": "stabile Seitenlage"
+                        }
+                      ]
+                    },
+                    {
+                      "content": [
+                        {
+                          "type": "subHeading",
+                          "text": "Lebensgefährdende Ursachen beseitigen"
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Eine Kombination aus Mund-zu-Nase Beatmung und Herzdruckmassage wird im Folgenden aufgezeigt:"
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Stehen zwei Helfer zur Verfügung, können diese Aufgaben aufgeteilt werden."
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": "Zwischendurch muss immer wieder überprüft werden, ob Atmung oder Herz eingesetzt haben, die Massnahmen sind dann zu stoppen!"
+                        },
+                        {
+                          "type": "errorWarning",
+                          "content": "Ein erfolgreich wiederbelebter Hund muss zur Nachbehandlung zum Tierarzt!"
+                        },
+                        {
+                          "type": "subTopic",
+                          "content": [
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "Kombinierte Herz- Lungen Reanimation"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "IM ZWEIFEL ist die Herz-druck Massage wichtiger als die Atemspende"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "30 Herzdruckmassagen, 2 Atemspenden"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            },
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "mund-zu-nase beatmung"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Die Nase des Hundes zeigt zum Helfer"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "aus Hygienegründen: evtl. dünnes Tuch über die Nase des Hundes legen"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Mund des Hundes zuhalten, so dass keine Luft entweichen kann"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "evtl. mit beiden Händen Lefzen halten und abdichten"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Aus Daumen und Zeigefinger einen Ring um die Nasenöffnung des Hundes formen und eigenen Mund aufsetzen"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "mit 20-30 Atemstößen je Minute beatmen"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            },
+                            {
+                              "content": [
+                                {
+                                  "type": "subHeading",
+                                  "text": "herz-druck-massage"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "NUR wenn Herz und Atmung ausgesetzt haben"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Je nach Größe oder Wachstumsstand 2-3 Finger (Welpe), eine Hand oder zwei Hände (große Hunde) verwenden"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Seitenlage"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "Herz finden: Angewinkelter Ellebogen befindet sich über dem Herzen"
+                                },
+                                {
+                                  "type": "image",
+                                  "content": "@/assets/images/dog.png"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "stossartig Druck auf den Brustkorb ausüben, danach vollständig entlasten"
+                                },
+                                {
+                                  "type": "bullet",
+                                  "content": "dabei eine Taktung von 1 Stoss pro Sekunde einhalten"
+                                },
+                                {
+                                  "type": "buttonText",
+                                  "content": "mehr dazu"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "title": "Transport",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Schnellst möglich."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Vorab telefonischen Kontakt zu Klinik/ TA aufnehmen (Öffnungszeiten prüfen)"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Helfer durch Aufmerksam machen organisieren"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Der Transport zur Klinik muss schnellst möglich erfolgen, es sollte jemand fahren der nicht zu aufgeregt ist "
+                },
+                {
+                  "type": "bullet",
+                  "content": "Wenn der Hund selbst gehen kann sollte man ihn lassen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Abhängig der Situation Transportmögichkeiten wählen"
+                },
+                {
+                  "type": "buttonText",
+                  "content": "mehr dazu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giftige Lebensmittel",
+          "sections": [
+            {
+              "id": "1",
+              "title": "Nach der Wiederbelebung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Sichere Betreuung des Hundes."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Den Hund warm halten, da er unterkühlt sein könnte."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Auf regelmäßige Atmung und Herzschlag achten."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Temperatur prüfen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Ruhe und sanfte Beruhigung schaffen."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Kontinuierliche Beobachtung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Fortlaufende Überwachung ist entscheidend."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Vitalzeichen stündlich überprüfen."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Auf Symptome von Atemnot oder Herzschwäche achten."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Symptome von Schock erkennen"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Tierarztbesuch einplanen, um Folgeschäden auszuschließen."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Langfristige Erholung",
+              "content": [
+                {
+                  "type": "highlightedText",
+                  "text": "Geduld ist gefragt."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Regelmäßige Nachuntersuchungen beim Tierarzt."
+                },
+                {
+                  "type": "bullet",
+                  "content": "Besondere Pflege, falls neurologische Schäden bestehen."
+                },
+                {
+                  "type": "buttonText",
+                  "content": "Pflegehinweise"
+                },
+                {
+                  "type": "bullet",
+                  "content": "Sicherstellung einer stressarmen Umgebung zur Erholung."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

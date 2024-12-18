@@ -135,6 +135,14 @@ export default function Index() {
           router.push({ pathname: '/parasiteprotection/allEntriesScreen' })
         }
       />
+      <Button
+        title="Go to Medical Infos"
+        onPress={() => router.push({ pathname: '/medicalInfos' })}
+      />
+      <Button
+        title="Go to Black Screens"
+        onPress={() => router.push({ pathname: '/medicalInfos/blackScreens/blackScreen1' })}
+      />
     </View>
   );
 }
